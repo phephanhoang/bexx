@@ -1,14 +1,16 @@
+
+
+
+
 {
-  "name": "THE ABEX TOKEN",
-  "symbol": "ABEXX",
-  "uri": "https://github.com/phephanhoang/bexx/blob/main/metadata.json",
+  "name": "ABEXX DAICA",
+  "symbol": "ABEX2",
+  "description": "A revolutionary token on Solana!",
   "image": "https://raw.githubusercontent.com/phephanhoang/bexx/refs/heads/main/abex.png",
-  "seller_fee_basis_points": 500,
-  "creators": [
-    {
-      "address": "Be2amjhmhnk5cEe7Gt3Y7zjJ3UPwX694N8oPj33x6Pc5",
-      "verified": true,
-      "share": 100
-    }
+  "external_url": "https://NGACNHIEM.com",
+    "seller_fee_basis_points": 500,
+  "attributes": [
+    { "trait_type": "Purpose", "value": "Utility" },
+    { "trait_type": "Version", "value": "1.0" }
   ]
 }
