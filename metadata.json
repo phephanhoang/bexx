@@ -1,8 +1,8 @@
 {
   "name": "THE ABEX TOKEN",
   "symbol": "ABEXX",
-  "uri": "https://white-late-marsupial-856.mypinata.cloud/ipfs/bafkreiggbkdlxikgtp2mz4i4q7ucwszzgmrhuuxdgzgw3pft2lbwja34t4",
-  "image": "https://white-late-marsupial-856.mypinata.cloud/ipfs/bafkreigowmh57e7q3rjozmddbfipaaje5i7xcmgmeakldrjqrfj4eul2fi",
+  "uri": "https://github.com/phephanhoang/bexx/blob/main/metadata.json",
+  "image": "https://raw.githubusercontent.com/phephanhoang/bexx/refs/heads/main/abex.png",
   "seller_fee_basis_points": 500,
   "creators": [
     {
