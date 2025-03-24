@@ -1,8 +1,12 @@
+
+
+
 {
-  "name": "DITCUMAY",
-  "symbol": "BEXXX",
-  "uri": "https://raw.githubusercontent.com/phephanhoang/bexx/refs/heads/main/metadata.json",
+  "name": "ABEXX DAICA",
+  "symbol": "ABEX2",
+  "description": "Token chính thức của dự án ABEXX DAICA.",
   "image": "https://raw.githubusercontent.com/phephanhoang/bexx/refs/heads/main/abex-logo.png",
+  "external_url": "https://ngacnhien.com",
   "seller_fee_basis_points": 0,
   "creators": [
     {
